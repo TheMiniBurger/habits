@@ -4,3 +4,4 @@ Habits:
 3.When eating food, don't keep it in my mouth: 4/22/2016:0%;
 4.whatever I do, I should clean up after it: 4/22/2016:25%;
 5.When i'm doing work, don't get distracted, but focus: 4/22/2016:15%;
+6.when working, don't put distractions around me to focus: 4/24/2016:0%
