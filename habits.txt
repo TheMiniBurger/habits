@@ -1,10 +1,10 @@
 Habits:
-1. Listen to instructions carefully: 0%
-2. Don't put my hands in my mouth: 0%
-3. Whatever I do, I should clean up after it: 5%
-4. When eating food, don't keep it in my mouth: 10%
-5. Don't put my computer on the floor: 15%
-6. When working, don't put distractions around me to focus: 20%
-7. Don't conflict to your opinion: 20%
-8. When I'm doing work, don't get distracted, but focus: 30%
-9. Always hang up my jacket and not put it on the floor: 30%
+1. Listen to instructions carefully: 10%
+2. Don't put my hands in my mouth: 10%
+3. Whatever I do, I should clean up after it: 10%
+4. When eating food, don't keep it in my mouth: 20%
+5. Don't put my computer on the floor: 30%
+6. When working, don't put distractions around me to focus: 50%
+7. Don't conflict to your opinion: 55%
+8. Always hang up my jacket and not put it on the floor: 55%
+9. When I'm doing work, don't get distracted, but focus: 65% 
