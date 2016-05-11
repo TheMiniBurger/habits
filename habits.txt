@@ -1,14 +1,15 @@
 Habits:
-1. don't rub my nose: 0%
-2. Don't play during class: 0%
-3. Don't play with my knee/feet during reading time: 0%
-4. After using the bathroom, FLUSH the toilet: 10%
-5. Listen to instructions carefully: 25%
-6. Whatever I do, I should clean up after it: 25%
-7. Don't put my hands in my mouth: 40%
-8. When eating food, don't keep it in my mouth: 50%
-9. Don't put my computer on the floor: 65%
-10. When working, don't put distractions around me to focus: 75%
-11. Don't conflict to my opinion: 80%
-12. Always hang up my jacket and not put it on the floor: 85%
-13. When I'm doing work, don't get distracted, but focus: 85% 
+1. When doing IXL stop at 100: 0%
+2. Don't rub my nose: 0%
+3. Don't play during class: 0%
+4. Don't play with my knee/feet during reading time: 0%
+5. After using the bathroom, FLUSH the toilet: 10%
+6. Listen to instructions carefully: 25%
+7. Whatever I do, I should clean up after it: 25%
+8. Don't put my hands in my mouth: 40%
+9. When eating food, don't keep it in my mouth: 50%
+10. Don't put my computer on the floor: 65%
+11. When working, don't put distractions around me to focus: 75%
+12. Don't conflict to my opinion: 80%
+13. Always hang up my jacket and not put it on the floor: 85%
+14. When I'm doing work, don't get distracted, but focus: 85% 
